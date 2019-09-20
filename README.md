@@ -2,6 +2,7 @@
 
 
 git clone https://github.com/ricardokanazawa/sonarQube
+
 cd sonarQube
 
 docker run docker/compose:1.14.0 version
